@@ -2,7 +2,7 @@
 
 **`Technological Tinker`**
 
-I am a software engineer in the United States. I work primarily in the backend but I appreciate a beautifully designed front end as well. Check out more on my [website][chloeallen.dev].
+I am a software engineer in the United States. I work primarily in the backend but I appreciate a beautifully designed front end as well. Check out more on my [website](chloeallen.dev).
 
 ### 🧰 Languages and Tools
 
