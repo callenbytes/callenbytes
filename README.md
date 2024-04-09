@@ -1,5 +1,9 @@
 # 👩‍💻 Chloe Allen
 
+**`Technological Tinker`**
+
+I am a software engineer in the United States. I work primarily in the backend but I appreciate a beautifully designed front end as well. Check out more on my website[chloeallen.dev].
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
